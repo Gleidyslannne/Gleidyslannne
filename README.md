@@ -1,6 +1,6 @@
 Olá, seja bem vindo!
 Me chamo gleidyslanne tenho 31 anos 
-atualmente estudo  Desenvolvimento de Sistemas.
+atualmente estudo Analises de Desenvolvimento de Sistemas.
 
 <!---
 Gleidyslannne/Gleidyslannne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
